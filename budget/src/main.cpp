@@ -1,0 +1,3 @@
+#include <iostream>
+int main() { std::cout << "organa-budget-cli running...
+"; return 0; }

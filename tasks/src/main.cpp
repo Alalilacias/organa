@@ -1,0 +1,3 @@
+#include <iostream>
+int main() { std::cout << "organa-tasks-cli running...
+"; return 0; }

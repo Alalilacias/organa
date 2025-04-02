@@ -1,3 +1,15 @@
+# Build outputs
+/build/
+/bin/
+/compile_commands.json
+
+# Editor clutter
+*.swp
+*.swo
+.vscode/
+.idea/
+*.DS_Store
+
 # Prerequisites
 *.d
 
