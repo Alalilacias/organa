@@ -8,9 +8,9 @@ The following documents the development plan for Organa. The plan is divided int
 
 ### 1. **Project Setup**
 
-- [ ] Create project structure:
+- [x] Create project structure:
   - `organa-core/`, `organa-tasks/`, `organa-budget/`, `launcher/`
-- [ ] Setup `CMakeLists.txt` for modular builds
+- [x] Setup `CMakeLists.txt` for modular builds
 - [ ] Add a CLI arg parser (like `CLI11` or custom)
 
 ### 2. **Implement Organa Tasks MVP**
